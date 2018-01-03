@@ -1,0 +1,21 @@
+/* css combinator */
+
+/* decendants combintor */
+.parent .child {
+
+}
+/* child combinator */
+.parent > .child {
+}
+
+.tasnuva + div {
+
+}
+.tasnuva ~ div {
+
+}
+
+
+
+
+
